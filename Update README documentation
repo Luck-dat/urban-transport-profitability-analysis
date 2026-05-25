@@ -1,0 +1,44 @@
+# Urban Transport Profitability Analysis
+
+## Objective
+
+This project analyzes the operational profitability of an urban transport fleet through fuel consumption evaluation, passenger demand analysis, and efficient vehicle allocation strategies.
+
+The main objective is to identify operational inefficiencies and optimize resource utilization using data-driven decision making.
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Business KPIs
+
+- Fuel consumption per vehicle
+- Cost per route
+- Passenger occupancy rate
+- Operational efficiency
+- Route profitability
+
+## Key Insights
+
+- Detection of underutilized routes
+- Identification of high fuel consumption units
+- Demand variability analysis
+- Fleet allocation optimization opportunities
+
+## Project Structure
+
+```bash
+├── analisis_rentabilidad.ipynb
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+## Author
+
+GitHub: Luck-dat
